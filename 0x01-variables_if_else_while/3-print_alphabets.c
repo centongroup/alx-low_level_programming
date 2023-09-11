@@ -1,6 +1,6 @@
-Task 3
-
 #include <stdio.h>
+
+
 /**
  *  main - program that prints the alphabet in lowercase and upper case
  *
@@ -19,3 +19,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
